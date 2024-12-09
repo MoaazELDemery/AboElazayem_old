@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475012983398",
+    "project_id": "aboelazayem-bdb3b",
+    "storage_bucket": "aboelazayem-bdb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475012983398:android:018815eef69f9af42a9ba7",
+        "android_client_info": {
+          "package_name": "com.app.aboelazayem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475012983398-etq0romgqnpp2dnvu1k6klijrmuvrjf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cOuq_Irkv1padtkYYw2kfGY0jtRnedw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475012983398-etq0romgqnpp2dnvu1k6klijrmuvrjf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
